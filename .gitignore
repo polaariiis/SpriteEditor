@@ -1,0 +1,22 @@
+# Dependencies (like SFML)
+dependencies/
+libs/
+
+# Build outputs
+*.exe
+*.dll
+*.lib
+*.pdb
+*.obj
+*.idb
+
+# Visual Studio files
+*.vcxproj.user
+*.suo
+*.user
+*.db
+*.opendb
+
+# IDE configs
+.vscode/
+.idea/
